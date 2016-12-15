@@ -10,10 +10,14 @@ namespace yii\testyii2;
 use Yii;
 use yii\base\InvalidConfigException;
 
-class Session extends \yii\web\Session
+class Hello extends \yii\web\Session
 {
 	public function getHelloTest()
     {
-        return "get Hello Test 20161215";
+        return "get Hello Test 20161215 HelloTest";
+    }
+	public static function HelloTest()
+    {
+        return "get Hello Test 20161215 static";
     }
 }
