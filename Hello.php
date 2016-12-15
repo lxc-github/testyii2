@@ -14,10 +14,10 @@ class Hello extends \yii\web\Session
 {
 	public function getHelloTest()
     {
-        return "get Hello Test 20161215 HelloTest";
+        return "get Hello Test 20161215 HelloTest 1.0.4.1";
     }
 	public static function HelloTest()
     {
-        return "get Hello Test 20161215 static";
+        return "get Hello Test 20161215 static 1.0.4.1";
     }
 }

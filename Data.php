@@ -14,10 +14,10 @@ class Data extends \yii\web\Session
 {
 	public function getHelloData()
     {
-        return "Hello data 20161215 getHelloData";
+        return "Hello data 20161215 getHelloData 1.0.4.1";
     }
 	public static function HelloData()
     {
-        return "Hello data 20161215 static";
+        return "Hello data 20161215 static 1.0.4.1";
     }
 }
