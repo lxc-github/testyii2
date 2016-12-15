@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\testyii2;
+namespace lxcgithub\testyii2;
 
 use Yii;
 use yii\base\InvalidConfigException;
