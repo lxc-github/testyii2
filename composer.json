@@ -25,7 +25,7 @@
   },  
   "autoload": {  
 	"psr-4": {  
-	  "terry\\": ""  
+	  "testyii2\\": ""  
 	}  
   },  
   "config": {  
