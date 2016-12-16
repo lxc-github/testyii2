@@ -4,16 +4,21 @@
   "keywords": [  
 	"yii2",  
 	"testyii2"  
-  ],
+  ],  
+  "homepage": "https://github.com/lxc-github/testyii2",  
   "type": "yii2-extension",  
-  "license": "MIT",
+  "license": "MIT",  
+  "support": {  
+	"source": "https://github.com/lxc-github/testyii2"  
+  },  
   "authors": [  
 	{  
 	  "name": "lxc-github test yii2",  
 	  "email": "674098372@qq.com"  
 	}  
-  ],
-  "require": {
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
 	"php": ">=5.4.0",  
 	"yiisoft/yii2": ">=2.0.6"  
 	 
@@ -22,5 +27,8 @@
 	"psr-4": {  
 	  "lxcgithub\\testyii2\\": ""  
 	}  
-  }
+  },  
+  "config": {  
+	"process-timeout": 1800  
+  }  
 }
