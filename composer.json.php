@@ -32,3 +32,28 @@
 	"process-timeout": 1800  
   }  
 }
+/*
+Installation
+------------
+
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+php composer.phar require --prefer-dist moonlandsoft/yii2-phpexcel "*"
+```
+
+or add
+
+```
+"moonlandsoft/yii2-phpexcel": "*"
+```
+
+to the require section of your `composer.json` file.
+\moonland\phpexcel\Excel::export()
+
+
+composer require lxc-github/testyii2
+*/
+\lxcgithub\testyii2\Hello::HelloTest()
