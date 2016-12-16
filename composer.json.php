@@ -52,5 +52,8 @@ or add
 
 to the require section of your `composer.json` file.
 \moonland\phpexcel\Excel::export()
+
+
+composer require lxc-github/testyii2
 */
 \lxcgithub\testyii2\Hello::HelloTest()
